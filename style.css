@@ -78,6 +78,11 @@ body {
     height: 30px;
 }
 
+#description {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
 #description-container {
     display: flex;
     justify-content: center;
